@@ -12,7 +12,7 @@ An Android app built with **Kotlin** and **Jetpack Compose** that shows informat
 ---
 
 ## Screenshot  
-![App Screenshot](Screenshot-Amphibians.jpg)  
+<img src="Screenshot-Amphibians.jpg" alt="App Screenshot" width="300"/>  
 
 ---
 
