@@ -5,9 +5,10 @@ An Android app built with **Kotlin** and **Jetpack Compose** that shows informat
 ---
 
 ## Features  
-- List of amphibians  
-- Details with description and image  
-- Modern Compose UI  
+- Browse a list of amphibians with name, type, description, and image  
+- Data is loaded from a remote API  
+- Clean UI built with Jetpack Compose  
+- Uses Android best practices with separation of concerns  
 
 ---
 
@@ -16,15 +17,16 @@ An Android app built with **Kotlin** and **Jetpack Compose** that shows informat
 
 ---
 
-## Tech  
-- Kotlin  
-- Jetpack Compose  
-- Retrofit  
-- Coil  
+## Tech Stack
+- **Language:** Kotlin  
+- **UI:** Jetpack Compose  
+- **Networking:** Retrofit  
+- **Image Loading:** Coil  
+- **Architecture:** MVVM with ViewModel + Repository pattern  
 
 ---
 
 ## Setup  
-1. Clone the repo  
+### Clone the repo  
    ```bash
    git clone https://github.com/am0520/Amphibians.git
