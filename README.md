@@ -1,6 +1,8 @@
 # Amphibians  
 
-An Android app built with **Kotlin** and **Jetpack Compose** that shows information about different amphibian species. Data is loaded from a web API and displayed with names, descriptions, and images.  
+An Android app built with **Kotlin** and **Jetpack Compose** that shows information about different amphibian species. Data is loaded from a web API and displayed with names, descriptions, and images.
+
+This project was built as a practice project while following the [Android Basics with Compose Unit 5: Load and display images from the internet](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-2) codelab.
 
 ---
 
